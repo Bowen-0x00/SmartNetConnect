@@ -16,6 +16,8 @@
 - pin multiplex
 - GPIO
 
+驱动UART、I2C、SPI读写NFC卡
+
 根据BLE spec使用代码对BLE进行配置
 - Advertising Parameters
 - Scan Response Data
